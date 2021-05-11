@@ -1,0 +1,809 @@
+React
+
+
+
+
+
+@channel This is a pretty nice high level explanation of Redux. Definitely worth giving it a watch if you're struggling with understanding how Redux works.
+https://www.youtube.com/watch?v=3sjMRS1gJys&ab_channel=StephenGrider
+YouTubeYouTube | Stephen Grider
+[Redux] - The Best Explanation of How it Works 
+
+:+1::+1::skin-tone-4:
+6
+:thankyou5:
+2
+:broken:
+1
+
+
+1 reply
+5 months agoView thread
+
+Aaron Flowers  15:22
+Thank you!!
+:fire:
+1
+
+
+1 reply
+5 months agoView thread
+
+Marc Tapp:lambdapm-new:  17:55
+@here Figured I would offer this out... As most of you know, this is my last guided project as a TL at Lambda School, and Sunday is my last 5th day will you.. i have enjoyed the time I've had with you all very much.. And I truly hope to see you all succeed.. with that being said... Tonight's lesson is one of the most difficult lessons to learn. And your project will not be simple. (It is complete-able though) i will be hosting after hours tonight from 9PM to 1030PM PST. I HIGHLY RECOMMEND YOU ALL ATTEND. This is will quite possibly the last opportunity I will have to help you all out.
+And before everyone asks, yes it will be recorded, but if you can male it, I highly suggest that you do. Thats the only way your questions will get answered.
+:100:
+4
+:location:
+1
+:+1::skin-tone-4:
+4
+
+
+
+
+3 replies
+Last reply 5 months agoView thread
+
+Gabriel Henton:speech_balloon:  18:06
+yes I’ll be there
+
+Brian Kirkby  18:25
+links for tonight's guided project:
+zoom: https://zoom.us/j/99190419673?pwd=ek5UTzM4UWM2ZExmM05vcG9MTlBVdz09
+sli.do: https://app.sli.do/event/xembujfa
+codesandbox: https://codesandbox.io/s/redux-webpt21-ee21j
+CodeSandboxCodeSandbox
+redux - webpt21 - CodeSandbox
+redux - webpt21 by bkirkby using react, react-dom, react-scripts
+Nov 13th, 2020 (22 kB)
+https://codesandbox.io/api/v1/sandboxes/ee21j/screenshot.png
+
+Chad Diaz  18:30
+@channel :this:
+
+Harvey Magana  18:30
+redux is the bucking bronco
+:yes-party:
+1
+
+18:32
+planning your flow is critical to being successful with this part.
+
+Osvaldo Lievano  18:35
+could we zoom in ? its kinda hard to read
+
+Chad Diaz  18:39
+on the blackpage
+
+Osvaldo Lievano  18:39
+cmd + on the screen - im blind ahah
+
+Mark Hillin  18:46
+it’s like a waterfall and can only go down
+
+Daniel Ontiveros:mizkifhug:  19:06
+by store does he mean like a online store to purchase things? Im confused lol (edited) 
+
+
+4 replies
+Last reply 5 months agoView thread
+
+Osvaldo Lievano  19:36
+so from a holistic view - Provider component accepts the store which contains our titleReducer which is defining our initial state. when we use mapStateToProps we are connecting our component to the store?
+
+
+
+8 replies
+Last reply 5 months agoView thread
+
+Daniel Ontiveros:mizkifhug:  19:39
+Anyone else struggling to grasp this?
+:yes:
+2
+
+
+
+
+
+
+6 replies
+Last reply 5 months agoView thread
+
+Gif KeyboardAPP  19:51
+@Chad D.: /gif mind (129 kB)
+https://media.tenor.com/images/fa3eecd7751f427a047a56d54d7e87e2/tenor.gif
+:morty-head:
+2
+:hank_hill_propane_and_propane_accessories:
+1
+
+19:52
+@Chad D.: /gif mind blown (75 kB)
+https://media.tenor.com/images/bc36be86b54b254e7880d51d1ee457ea/tenor.gif
+
+Bill Xiong  19:53
+that music for the 5 min break sounds like the theme for the resident evil movie :thinking_face:
+
+2 replies
+Last reply 5 months agoView thread
+
+Avery Burns  19:56
+imagine how hard it would be to be an author or journalist if you were required to learn and be fluent in several languages and dialects… and then learn another every few months
+:true:
+1
+
+
+Osvaldo Lievano  20:01
+what was the payload that setTitle received? action.payload?
+
+Leida Alicea de Leon  20:07
+can you show the member reducer again?
+
+Osvaldo Lievano  20:09
+its a class component
+
+Ismail Al Kamal  20:09
+do you need to combine reducers
+20:10
+from state.membersReducer.members
+
+Ismail Al Kamal  20:23
+Guys, I did a toggle Dragon action too by clicking the name. check it out:
+https://codesandbox.io/s/redux-webpt21-forked-1wscf (edited) 
+CodeSandboxCodeSandboxc
+redux - webpt21 (forked) - CodeSandbox
+redux - webpt21 (forked) by ialkamal using react, react-dom, react-redux, react-scripts, redux
+Nov 13th, 2020 (29 kB)
+https://codesandbox.io/api/v1/sandboxes/1wscf/screenshot.png
+:thankyou5:
+1
+
+
+1 reply
+5 months agoView thread
+
+Daniel Ontiveros:mizkifhug:  20:25
+Imma be honest, I dont know what to ask. I need to re watch this lecture and read more resources
+
+Ismail Al Kamal  20:25
+@TL - Marc Tapp has after hours "don't forget"
+:this_lambda:
+6
+:aye-aye-10-4-good-buddy:
+1
+
+
+Gabriel Henton:speech_balloon:  20:27
+This lecture has been great, @kirkby !
+:+1:
+3
+:fireball:
+4
+:blob-hearts:
+1
+:heart:
+2
+:thanks:
+1
+
+
+Osvaldo Lievano  20:27
+oh i had my camera off the whole time lol
+:joy:
+1
+:exploding_head:
+1
+
+20:27
+woops
+
+Gabriel Henton:speech_balloon:  20:27
+See you guys at 9pm in @TL - Marc Tapp’s awesome cementing of what we just learned!
+:+1:
+1
+
+
+Leida Alicea de Leon  20:27
+I got a lot out of it. Thank you @kirkby!! (edited) 
+:thanks:
+1
+
+
+Gabriel Henton:speech_balloon:  20:27
+I’m going for a walk. Whew what a day :smile:
+
+
+3 replies
+Last reply 5 months agoView thread
+
+Chad Diaz  20:28
+@kirkby would you please re-post the CodeSandbox solution ?
+
+1 reply
+5 months agoView thread
+
+Richard Rodriguez:triforce:  20:28
+http://gph.is/Kvfbhu
+GiphyGiphy (138 kB)
+https://media4.giphy.com/media/gsy4Mv1G1riVO/giphy.gif?cid=6104955e61b42ddfa5736155f8db0af4bccf9b3efc270309&rid=giphy.gif
+:joy:
+1
+:rolling_on_the_floor_laughing:
+4
+:smile:
+1
+:fb-laugh:
+2
+:heavy-breathing:
+1
+
+
+Marc Tapp:lambdapm-new:  20:58
+@channel Come on in for Redux After Hours! https://zoom.us/j/99930676753?pwd=QW5OWnZRbFZZNmRJTFkrSDJsMlN2UT09
+
+Gabriel Henton:speech_balloon:  21:09
+:robot_face:
+21:09
+:laughing:
+
+Marc Tapp:lambdapm-new:  21:36
+https://codesandbox.io/s/superhero-redux-tutorial-whnjy?file=/src/App.js
+CodeSandboxCodeSandbox
+superhero-redux-tutorial - CodeSandbox
+superhero-redux-tutorial by tippitytapp using axios, react, react-dom, react-redux, react-router-dom, react-scripts, redux, redux-logger, redux-thunk
+Nov 7th, 2020 (5 kB)
+https://codesandbox.io/api/v1/sandboxes/whnjy/screenshot.png
+:rocket:
+1
+
+Pinned by Aaron Flowers
+21:36
+Step 1) dependencies that you need to install - 
+1) redux
+2) react-redux
+3) redux-thunk**
+4) redux-logger**
+Step 2)
+create src/store/actions/index.js
+create src/store/reducers/index.js
+create src/store/reducers/<application specific reducer file>
+Step 3)
+set up your basic application specific reducer file
+```
+const initialState = {
+isLoading: false
+}
+export const <nameOfReducer> = (state= initialState, action) => {
+switch(action.type){
+default:
+return state
+}} 
+```
+Step 4)
+src/index.js :
+import {Provider} from "react-redux"
+import {createStore, applyMiddleware} from "redux"
+import rootReducer from "..path/..to/..reducer/..directory
+const store = createStore(rootReducer, applyMiddleware(thunk, logger))
+<Provider store={store}><App /></Provider>
+:fireball:
+2
+
+
+Ismail Al Kamal  23:12
+Image from Android 
+Image from Android
+
+
+:rolling_on_the_floor_laughing:
+6
+:obama-mic-drop:
+1
+
+
+Brian Kirkby  09:23
+last night's lecture (when it's done processing): https://youtu.be/OTs_YOMiTI8
+
+Christopher Adams:ta:  13:12
+was added to webpt21 by Dan Frehner.
+
+Chad Diaz  11:34
+https://www.instagram.com/reel/CHRdTMZge9q/?igshid=10bu7oxoss174
+InstagramInstagram
+lizml07 on Instagram: I probably just need another cup of coffee. #coding #softwareengineer #learntocode #program
+lizml07 • Original Audio (154 kB)
+https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/123777251_2754224998125070_8939840594339609578_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_ohc=LWBOzbq7PJIAX-LNDS3&tp=19&oh=201bb9ee3f6fe8726589ecb388a6c02c&oe=5FB2A803
+:lovemusic:
+1
+:rolling_on_the_floor_laughing:
+2
+:admission_tickets:
+1
+
+
+Marc Tapp:lambdapm-new:  18:29
+@here how is everyone doing tonight? Does anyone have any questions?
+:+1:
+1
+
+
+
+
+8 replies
+Last reply 5 months agoView thread
+Pinned by Robel Mengistu
+
+Brian Kirkby  18:24
+@channel for links for guided project tonight:
+zoom: https://zoom.us/j/98180923582?pwd=aWo0M0VnYVRhNC84UWJhRnh4a2I5dz09
+sli.do: https://app.sli.do/event/vqckjx1c
+first codesandbox: https://codesandbox.io/s/redux-webpt21-ee21j
+second codesandbox: tbd
+CodeSandboxCodeSandbox
+redux - webpt21 - CodeSandbox
+redux - webpt21 by bkirkby using react, react-dom, react-redux, react-scripts, redux
+Nov 13th, 2020 (18 kB)
+https://codesandbox.io/api/v1/sandboxes/ee21j/screenshot.png
+:gandalf:
+1
+
+18:25
+will get started in 6 minutes
+
+Chad Diaz  18:31
+a bit :mind-blown:  but working through it
+:+1::skin-tone-4:
+1
+
+
+Brian Kirkby  18:31
+@here starting class now
+
+Ryan Clark  18:31
+Don't love it, but I am finally getting it
+
+Shenandoah Veele  18:31
+its sinking in a bit
+
+Bill Xiong  18:31
+I feel the same way like Chad
+
+Avery Burns  18:31
+redux will be awesome once i fully wrap my head around it
+:+1::skin-tone-4:
+1
+
+
+Mark Hillin  18:32
+put me in coach I’m ready to play, today!
+
+Harvey Magana  18:32
+With so many moving parts, I can grok the concept and get it.
+
+Chad Diaz  18:33
+@kirkby don't forget about the debugger in Title.js.  ;-)
+
+Chad Diaz  18:58
+@kirkby there are questions in slido
+
+Brian Kirkby  19:06
+https://codesandbox.io/s/async-redux-webpt21-1dkvb
+CodeSandboxCodeSandbox
+async-redux-webpt21 - CodeSandbox
+async-redux-webpt21 by bkirkby using react, react-dom, react-scripts
+Nov 17th, 2020 (19 kB)
+https://codesandbox.io/api/v1/sandboxes/1dkvb/screenshot.png
+
+Osvaldo Lievano  19:07
+what web extension is making your JSON format automatically?
+
+Daniel Ontiveros:mizkifhug:  19:09
+https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?utm_campaign=en&utm_source=en-ha-na-us-bk-ext&utm_medium=ha @ozzy-lievano
+chrome.google.comchrome.google.com
+JSON Viewer
+The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen. Open source at https://goo.gl/fmphc7
+:+1:
+3
+
+
+Chad Diaz  19:24
+@kirkby, you're not in index.js
+
+Daniel Ontiveros:mizkifhug:  19:30
+:morty-head:
+
+Leida Alicea de Leon  20:07
+try replacing the callback for a null
+20:07
+in the connect
+
+Chad Diaz  20:14
+@kirkby would you please post that api link here
+
+Brian Kirkby  20:15
+https://jobs.github.com/positions.json?description=full+stack&location=remote
+
+Chad Diaz  20:27
+export default connect(null, {loadDataForLocation})(SearchForm); :arrow_left: @kirkby (edited) 
+
+Leida Alicea de Leon  20:35
+we can't see the screen you're working on
+
+Chad Diaz  20:35
+@kirkby :this:
+
+Osvaldo Lievano  20:35
+we are staring at wikipedia
+20:35
+:smile:
+
+Chad Diaz  20:36
+Would you post the updated api link please? @kirkby
+
+1 reply
+5 months agoView thread
+
+Chad Diaz  20:39
+Whoa!
+
+Richard Machado:lambda:  20:41
+Stay tuned for after hours with @Chris Adams - TA coming up at 9PM pacific
+
+
+3 replies
+Last reply 5 months agoView thread
+
+Chad Diaz  20:41
+@kirkby will you be working on a finished SOLUTION to the project we were just working?
+
+2 replies
+Last reply 5 months agoView thread
+
+Ismail Al Kamal  20:42
+@here Please use this as a quick fix for github jobs
+  axios
+    .get(
+      `https://cors-anywhere.herokuapp.com/https://jobs.github.com/positions.json?description=python&full_time=true&location=${searchLocation}`,
+      {
+        headers: {
+          "X-Requested-With": "XMLHttpRequest"
+        }
+      }
+    )
+    .then((res) => dispatch({ type: DATA_LOAD_SUCCESS, payload: res.data }))
+    .catch((err) => dispatch({ type: DATA_LOAD_ERROR, payload: err.message }));
+(edited)
+:+1::skin-tone-2:
+5
+
+
+
+2 replies
+Last reply 5 months agoView thread
+
+Brian Kirkby  20:47
+my code sandbox has been updated with Ismail's work around. thanks @Ismail!
+:welcome-gif:
+3
+:+1::skin-tone-2:
+1
+
+20:48
+i also updated it with a little better styling
+
+Kavya Gunasekar  20:48
+Found this useful - https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9
+MediumMedium
+3 Ways to Fix the CORS Error — and How Access-Control-Allow-Origin works
+How to fix the infamous CORS error — the right way. Learn why the CORS error appears, and 3 solutions to fix it!
+Reading time
+7 min read
+Oct 15th, 2019 (108 kB)
+https://miro.medium.com/max/500/1*vP1drWY1myDhV99P9YHhGg.png
+:thanks:
+1
+:thanks2:
+3
+:fireball:
+2
+
+
+Christopher Adams:ta:  21:00
+@channel Time for tonight’s Q&A session.
+https://us02web.zoom.us/j/82384518891
+
+
+2 replies
+Last reply 5 months agoView thread
+
+Brian Kirkby  21:04
+tonight's lecture (when it's ready): https://youtu.be/Vqq967gYS0M
+YouTubeYouTube | Lambda School
+Async Redux, WebPT21 with brian kirkby 
+
+:fireball:
+2
+
+
+Christopher Adams:ta:  19:31
+@channel Time for some Q&A/Help Desk.  Come on in if you have questions, problems, or just want to hang out :grin:
+https://us02web.zoom.us/j/81751132297
+
+Brian Kirkby  18:22
+@channel links for tonights guided project on Context API!
+Zoom: https://zoom.us/j/99184257919?pwd=aEx2Z2hwVzBlNmRDU3pUUS9iWUFaUT09
+slido: https://app.sli.do/event/qzw0cyc9
+codesandbox: https://codesandbox.io/s/context-api-webpt21-3tznl?file=/src/App.js
+project will start at 6:30 Pacific!
+CodeSandboxCodeSandbox
+Context API - webpt21 - CodeSandbox
+Context API - webpt21 by bkirkby using react, react-dom, react-scripts
+Nov 19th, 2020 (194 kB)
+https://codesandbox.io/api/v1/sandboxes/3tznl/screenshot.png
+
+Brian Kirkby  18:30
+@here ^^^^
+
+1 reply
+5 months agoView thread
+
+Brian Kirkby  18:47
+https://reactjs.org/docs/context.html#before-you-use-context
+reactjs.orgreactjs.org
+Context – React
+A JavaScript library for building user interfaces (11 kB)
+https://reactjs.org/logo-og.png
+:catdance:
+1
+
+
+Brian Kirkby  18:51
+:thread: what is the implication of the families state when we aren't assigning the second parameter of the return array to userState(data)?
+
+
+
+
++1
+7 replies
+Last reply 5 months agoView thread
+
+Osvaldo Lievano  18:57
+https://www.amazon.com/Learning-JavaScript-Essentials-Application-Development/dp/1491914912/ref=sr_1_3?crid=2C42ECWNW2ARO&dchild=1&keywords=learning+javascript&qid=1605754635&s=books&sprefix=learning+jav%2Cstripbooks%2C161&sr=1-3 --> good resource to checkout
+:thankyou5:
+1
+:thankyou4:
+1
+
+
+Brian Kirkby  19:01
+:thread: what is the first step for us to do when using the ContextAPI?
+
+
+
+
+
+6 replies
+Last reply 5 months agoView thread
+
+Brian Kirkby  19:07
+:thread: what does an underscore(_) at the beginning of a name for an object imply?
+
+
+
+
+4 replies
+Last reply 5 months agoView thread
+
+Chad Diaz  19:15
+Who still has a TL?  LOL!
+
+Osvaldo Lievano  19:16
+BTW && === and
+19:16
+so TRUE and TRUE / TRUE and FALSE
+19:16
+if one evaluates to false then the whole thing is false
+
+Robel Mengistu  19:27
+activeFamily
+
+Ismail Al Kamal  20:04
+@kirkby remove props
+20:04
+value.parents (edited) 
+
+Brian Kirkby  20:10
+:thread: help me refactor the SiblingName component to use the context api.
+
+
+
+
+18 replies
+Last reply 5 months agoView thread
+
+Orlando Rivera, Jr.  20:14
+I liked doing that excercise.
+20:14
+Thanks @kirkby
+:fireball:
+1
+
+
+Osvaldo Lievano  20:15
+yeah I enjoyed it minus my internet exploding
+:rolling_on_the_floor_laughing:
+1
+
+
+Brian Kirkby  20:20
+:thread: general questions?
+
+
+
+
++1
+11 replies
+Last reply 5 months agoView thread
+
+Ismail Al Kamal  20:25
+Hey, here's the refactor to remove all props from SiblingName
+https://codesandbox.io/s/context-api-webpt21-forked-x2ul0?file=/src/App.js:476-503
+CodeSandboxCodeSandbox
+Context API - webpt21 (forked) - CodeSandbox
+Context API - webpt21 (forked) by ialkamal using react, react-dom, react-scripts
+Nov 19th, 2020 (196 kB)
+https://codesandbox.io/api/v1/sandboxes/x2ul0/screenshot.png
+:thankyou4:
+1
+:fireball:
+1
+:+1::+1::skin-tone-4:
+2
+
+
+Leida Alicea de Leon  20:26
+Who is this Ismail guy and why does he have all the answers?
+:joy:
+2
+:rolling_on_the_floor_laughing:
+2
+
+
+
+2 replies
+Last reply 5 months agoView thread
+
+Gabriel Henton:speech_balloon:  20:27
+cool story
+
+Bill Xiong  20:27
+nice story
+
+Chad Diaz  20:27
+YES!
+20:27
+WSJ
+
+Gabriel Henton:speech_balloon:  20:27
+yeah! let’s hear it
+
+Bill Xiong  20:27
+yes please
+
+Chad Diaz  20:28
+what is the company name again?
+20:29
+I'm on the site.  did you build this site?
+
+Orlando Rivera, Jr.  20:29
+That’s a cool thing to be a part of.
+
+Gabriel Henton:speech_balloon:  20:29
+https://www.neighbor.com/
+Neighbor
+Neighbor | The Cheaper, Closer & Safer Storage Marketplace
+Save 50% on secure storage in your neighborhood or rent out your empty space for income. (Not automatically expanded because 3 MB is too large. You can expand it anyway or open it in a new window.)
+
+Orlando Rivera, Jr.  20:30
+What’s your role with the company?
+
+Chad Diaz  20:31
+Not next week
+
+Gabriel Henton:speech_balloon:  20:31
+THANK YOU - yeah in 2 weeks
+
+Brian Kirkby  20:31
+oh? good to know!
+20:31
+:smile:
+
+Gabriel Henton:speech_balloon:  20:32
+Happy and Safe Thanksgiving
+
+Chad Diaz  20:32
+LOL!  https://lambda-students.slack.com/archives/C4JUEB796/p1605656201119000
+@kirkby :this: (edited) 
+:+1:
+1
+:thanks:
+1
+
+
+Orlando Rivera, Jr.  20:32
+Thanks @kirkby. Appreciate the transparency.
+
+Christopher Adams:ta:  20:36
+@channel Q&A Session will go live at 9:00 PST. Be sure to drop in if you have any questions :grin:
+:thankyou4:
+1
+
+
+1 reply
+5 months agoView thread
+
+Orlando Rivera, Jr.  20:41
+replied to a thread:
+@channel Q&A Session will go live at 9:00 PST. Be sure to drop in if you have any questions :grin:
+If you’re struggling with any of this material, like I was, you should stop in and see this dude. He’s super helpful, knowledgeable and approachable. I spent a good chunk of time working with him earlier today and am A BILLION% more confident than I was before we started.
+:+1:
+3
+:thankyoukindly:
+1
+
+
+Brian Kirkby  20:51
+video for tonight's guided project (once it's done processing): https://youtu.be/222c7xRGEHE  https://youtu.be/222c7xRGEHE
+YouTubeYouTube | Lambda School
+Context API for WebPT21 with brian kirkby 
+
+
+Christopher Adams:ta:  21:00
+@here Time for an After Hours Session of Q&A!  Come on in!
+https://us02web.zoom.us/j/85499807969
+
+Christopher Adams:ta:  20:01
+@channel Time for Q&A!!  Come on in!
+https://us02web.zoom.us/j/82550426128
+
+Christopher Adams:ta:  17:14
+@here If anyone needs technical assistance with their respective Sprint Challenge, I will be around until 10:00 PST.  Please DM me if you need anything :grin:
+:+1::skin-tone-4:
+2
+
+
+
+
+
+
+
+
+Nodejs
+
+
+
+
+
+
+
+
+
+
+
+This is a great cheat sheet for Axios, and will come in handy during Build Week: https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index
+:thanks2:
+5
+
+
+Zachery Smith:ta:  10:51
+https://www.youtube.com/watch?v=-MTSQjw5DrM
+YouTubeYouTube | Fireship
+RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express 
+
+https://www.sitepoint.com/git-techniques-to-know-before-you-join-a-team/
+sitepoint.comsitepoint.com
+10 Git Techniques You Need to Know Before You Join a Team - SitePoint
+Have you been using Git for some time, but never in a team environment? We cover the Git techniques that you must be familiar with before you join a team. (29 kB)
+
+https://betterprogramming.pub/why-javascript-developers-should-prefer-axios-over-fetch-294b28a96e2c
